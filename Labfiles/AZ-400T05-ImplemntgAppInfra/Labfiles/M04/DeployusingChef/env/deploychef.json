@@ -217,7 +217,7 @@
                 "description": "Base URL for dependent assets",
                 "artifactsBaseUrl": ""
             },
-            "defaultValue": "https://gallery.azure.com/artifact/20151001/chef-software.chef-automateallinone.1.0.15/Artifacts"
+            "defaultValue": ""
         }
     },
     "variables": {
